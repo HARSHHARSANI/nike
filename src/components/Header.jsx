@@ -11,10 +11,10 @@ const Header = () => {
         <div>
           {" "}
           <ul>
-            <li>Menu</li>
-            <li>Location</li>
-            <li>About</li>
-            <li>Contact</li>
+            <li className="listItems">Menu</li>
+            <li className="listItems">Location</li>
+            <li className="listItems">About</li>
+            <li className="listItems">Contact</li>
           </ul>
         </div>
         <div>
